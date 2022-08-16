@@ -63,4 +63,4 @@ car_data[categorical_feature_names]
 * Do not use the ```normalizer_fn``` arg on ```numeric_column```.
 
 ## Document
-[Copyright 2018 Google LLC](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/fe/exercises/intro_to_modeling.ipynb?utm_source=ss-data-prep&utm_campaign=colab-external&utm_medium=referral&utm_content=intro_to_modeling#scrollTo=LY0SJUCSY305)
+Google LLC 2018
